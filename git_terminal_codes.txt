@@ -16,5 +16,8 @@ git clone
 git add
 git commit -m 
 git push
+git log
 
 (git merge - git fetch => git pull)
+
+git gui
